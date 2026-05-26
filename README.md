@@ -8,10 +8,17 @@ This repository contains small, focused Blazor example applications that demonst
 
 ## Features
 
-- Lightweight demos focused upon each component.
-- Theming examples showing how to add theme CSS (for example `fluent.css`).
-- Hosting model coverage: WASM, Server, SSR and combined variants.
-- Example `Program.cs` shows `builder.Services.AddSyncfusionBlazor()` registration.
+- **Multiple Syncfusion Components**: Chart, DataGrid, Rich Text Editor, and Scheduler examples.
+- **Multiple Hosting Models**: 
+  - **WASM (WebAssembly)**: Client-side rendering for interactive experiences.
+  - **Server**: Server-side rendering with interactive features.
+  - **SSR (Static Site Rendering)**: Static content rendering option.
+  - **Auto**: Automatic selection based on context.
+- **Lightweight demos** focused on each component with practical examples.
+- **Theming examples** showing how to add theme CSS (e.g., `fluent.css`, `bootstrap.css`).
+- **Pre-configured Program.cs** demonstrating `builder.Services.AddSyncfusionBlazor()` registration.
+- **Component usage patterns** for data binding, event handling, and state management.
+- **Ready-to-run solutions** with proper folder structure and configurations.
 
 
 ## Getting started
