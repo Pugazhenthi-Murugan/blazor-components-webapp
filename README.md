@@ -1,10 +1,10 @@
-# Blazor Components WebApp — Examples with Syncfusion
+# Getting Started Examples with Blazor Web App Components
 
 A collection of small Blazor example apps that demonstrate how to use Syncfusion Blazor components ([Chart](https://www.syncfusion.com/blazor-components/blazor-charts), [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid), [RichTextEditor](https://www.syncfusion.com/blazor-components/blazor-rich-text-editor), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler), and more) across hosting models (WASM, Server, SSR and Auto). These samples are intended to help you prototype and learn how components integrate into Blazor projects.
 
 ## Overview
 
-This repository contains small, focused Blazor example applications that demonstrate how to integrate and use  Blazor components across different hosting models (WebAssembly, Server, SSR, and Auto rendered modes). The samples are intended for learning and rapid prototyping — explore the component usage in each sample's `Pages` and `Components` folders to see practical setups, data binding, and theming.
+This repository contains small, focused Blazor example applications that demonstrate how to integrate and use  Blazor components across different hosting models. The samples are intended for learning and rapid prototyping — explore the component usage in each sample's `Pages` and `Components` folders to see practical setups, data binding, and theming.
 
 ## Features
 
@@ -42,8 +42,6 @@ dotnet run
 
 ## References
 
-- Syncfusion Blazor documentation: https://blazor.syncfusion.com/
-- Microsoft .NET documentation — https://learn.microsoft.com/dotnet/
-- Blazor (ASP.NET Core) docs — https://learn.microsoft.com/aspnet/core/blazor?view=aspnetcore-8.0
-
-
+- https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-server-app
+- https://blazor.syncfusion.com/documentation/rich-text-editor/getting-started-with-server-app
+- https://blazor.syncfusion.com/documentation/scheduler/getting-started
